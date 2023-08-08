@@ -16,7 +16,7 @@ To get started with the Travel and Stay Website locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/travel-stay-website.git```
+git clone https://github.com/your-username/travel-stay-website.git```bash
 
 2. Navigate to the project directory:
 ```bash
