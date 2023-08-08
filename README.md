@@ -9,7 +9,7 @@ Welcome to the Travel and Stay Website project! This is a clean and responsive w
 - Responsive design that adapts to various screen sizes and devices.
 - Enhance user experience with intuitive navigation and interactive React-Icons.
 
-- ## Installation
+## Installation
 
 To get started with the Travel and Stay Website locally, follow these steps:
 
@@ -32,7 +32,8 @@ This will start the development server, and you can access the website in your w
 
 Feel free to explore the various travel destinations and accommodations available on the website. Enjoy the animations and the user-friendly interface!
 
-- ##Technologies Used
+## Technologies Used
+
 The Travel and Stay Website project makes use of the following technologies:
 
 React: A JavaScript library for building user interfaces.
