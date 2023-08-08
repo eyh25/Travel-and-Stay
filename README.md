@@ -20,17 +20,23 @@ git clone https://github.com/your-username/travel-stay-website.git
 ```
 
 2. Navigate to the project directory:
+
 ```bash
-cd travel-stay-website```
+cd travel-stay-website
+```
 
 3. Install the dependencies:
+
 ```bash
-npm install```
+npm install
+```
 
 Usage
 After completing the installation, you can run the development server using the following command:
+
 ```bash
-npm start```
+npm start
+```
 
 This will start the development server, and you can access the website in your web browser by visiting http://localhost:3000.
 
