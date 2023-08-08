@@ -16,17 +16,20 @@ To get started with the Travel and Stay Website locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/travel-stay-website.git
+git clone https://github.com/your-username/travel-stay-website.git```
 
 2. Navigate to the project directory:
-cd travel-stay-website
+```bash
+cd travel-stay-website```
 
 3. Install the dependencies:
-npm install
+```bash
+npm install```
 
 Usage
 After completing the installation, you can run the development server using the following command:
-npm start
+```bash
+npm start```
 
 This will start the development server, and you can access the website in your web browser by visiting http://localhost:3000.
 
